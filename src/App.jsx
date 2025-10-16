@@ -14,7 +14,6 @@ function App() {
 
         <div class="thank-you-message">
           <h1>Thank You!</h1>
-          <p>Your EMA check-in has been successfully completed.</p>
           <p>
             We appreciate you taking the time to share your experience with us
             today.
@@ -24,7 +23,8 @@ function App() {
         <div class="completion-info">
           <strong>Check-in Complete</strong>
           <br />
-          Your responses have been recorded. See you at your next check-in!
+          Your EMA check-in has been successfully completed. See you at your
+          next check-in!
         </div>
       </div>
     </>
